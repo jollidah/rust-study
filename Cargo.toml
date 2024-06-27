@@ -1,0 +1,13 @@
+[package]
+name = "rust-study"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+actix-web = "*"
+serde = "*"
+num = "*"
+image = "0.13.0"
+crossbeam = "0.8" 
+text-colorizer = "1"
+regex = "1"
