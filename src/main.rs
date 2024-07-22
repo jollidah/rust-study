@@ -36,5 +36,5 @@ fn main() {
         }
     }
 
-    println!("{:}", String::from_utf8(Vec::from(res)).unwrap())
+    println!("{:}", String::from_utf8(Vec::from(res)).unwrap());
 }
